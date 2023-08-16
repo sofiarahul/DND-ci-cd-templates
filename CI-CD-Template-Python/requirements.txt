@@ -1,0 +1,6 @@
+### Requirements without version specifiers ###
+pylint
+pip-audit
+flake8
+detect-secrets
+pytest
